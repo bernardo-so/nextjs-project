@@ -1,8 +1,8 @@
-/*
 import { Toolbar } from '../components/toolbar';
 import styles from '../styles/EOM.module.css'
 
 function eom({ employee }) {
+    /*
     console.log(employee)
     return (
         <div className='page-container'>
@@ -30,9 +30,7 @@ export const getServerSideProps = async pageContext => {
         props: {
             employee,
         },
-    };
+    };]
+    */
 };
-
-
-export default eom
-*/
+export default eom;
