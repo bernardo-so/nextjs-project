@@ -1,3 +1,4 @@
+/*
 import { Toolbar } from '../components/toolbar';
 import styles from '../styles/EOM.module.css'
 
@@ -34,3 +35,4 @@ export const getServerSideProps = async pageContext => {
 
 
 export default eom
+*/
